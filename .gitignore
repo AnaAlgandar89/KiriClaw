@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno (¡Nunca las subas al repositorio!)
+.env
+
+# Base de datos local
+mikedb
+*.db
+*.sqlite3
